@@ -1,2 +1,2 @@
 # author-attribution
-An ML algorithm for authorship attribution
+An ML algorithm for author attribution based on dialogue
