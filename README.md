@@ -20,7 +20,7 @@ An ML algorithm for author attribution based on dialogue. A CS 221 project.
 
 ## Background
 
-This project leverages DistilBERT, a lighter and faster version of the BERT model. My main goaal is to attribute authorship to dialogues from the Star Wars saga, distinguishing between different characters across Episodes IV to VI.
+This project leverages DistilBERT, a lighter and faster version of the BERT model. My main goal is to attribute authorship to dialogues from the Star Wars saga, distinguishing between different characters across Episodes IV to VI.
 
 The motivation behind this project stems from the broader context of digital text authorship verification and plagiarism detection. By fine-tuning a pre-trained model on scripts, this research explores a specific, yet important, application of ML to problems traditionally confined to literary and academic texts. For more information, read the full research paper in the `paper` folder.
 
