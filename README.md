@@ -1,4 +1,4 @@
-# Authorship
+# Quill
 
 An ML algorithm for author attribution based on dialogue. A CS 221 project.
 
